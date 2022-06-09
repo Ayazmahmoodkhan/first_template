@@ -1,0 +1,148 @@
+body {
+    background-image: url("sky1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+  }
+
+
+.nav-item{
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-left: auto;
+    
+}
+
+ul{
+    margin-left: au;
+}
+h1,p{
+    text-align: center;
+    
+}
+input{
+    margin-left: 50%;
+    background-color: blue;
+    color: white;
+
+}
+.btn3{
+    justify-content: center;
+    
+    
+}
+img{
+    width: 80%;
+    height: 30%;
+    margin-left:10%;
+    margin-top: 2%;
+}
+.container{
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+
+float: right;
+    /* /* display: flex; */
+    justify-content: center;
+    align-items: center; 
+}
+.first{
+    background-color: rgb(173, 80, 80);
+    color: white;
+}
+.second{
+
+background-color: rgb(39, 61, 184);
+color: white;
+}
+ .container-1{
+         margin: 10px;
+    width: 350px;
+    height: 200px;
+    
+    justify-content:right ;
+    float: right;
+    align-items: center; 
+
+}
+.third{
+    background-color: rgb(50, 60, 121);
+    color: white;
+}
+.fourth{
+    background-color: rgb(141, 59, 161);
+    color: white;
+}
+.features{
+    width: 350px;
+    height: 200px;
+    float: left;
+    margin-right: 2%;
+    margin-top: 3%;
+}
+.container-2{
+    margin: auto;
+    margin-top: 50%;
+    /* background-color: white; */
+    
+
+}
+.btn{
+    width: 20%; 
+    height: 15%;
+    text-align: center ;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    margin-left: 40%;
+}
+.mt3{
+    margin-top:1%;
+    background-color:white;
+    color: black;
+}
+.btn-1{
+    width: 60%;
+    height: 25%;
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
+.btn:hover,.btn-1:hover,.btn-2:hover {
+    background-color: black;
+}
+.img{ 
+    width: 50%;
+    height: 40%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.demo{
+    float: left;
+
+    margin-left: 7%;
+    margin-top: 3%;
+    /* background-color: rgb(43, 128, 226); */
+
+}
+.container-3{
+    /* background-color: white; */
+    margin-right: 8%;
+    margin-top: 5%;
+    
+}
+.btn-2{
+    margin-top: 4%;
+    width: 20%;
+    height: 30%;
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
+.centerme{
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
